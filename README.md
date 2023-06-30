@@ -63,11 +63,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
-###
 
 <h3 align="left">🛠 tools</h3>
 
-###
+
 
 <div align="center">
   <img width="12" />
@@ -104,3 +103,10 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dinil04&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 ###
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Dinil04&&style=flat-square" align="center" />
+</div>  
+<br><br>
